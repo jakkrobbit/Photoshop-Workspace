@@ -1,0 +1,22 @@
+.menutable {
+    border: none;
+    border-collapse: collapse;
+    margin: auto auto auto 6em;
+    td {
+        vertical-align: top;
+        padding: 0.1em 0;
+    }
+}
+
+.quickfind {
+    display: flex;
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+    right: 5em;
+    span {
+        display: block;
+        text-align: center;
+        margin: auto auto 1em;
+    }
+}

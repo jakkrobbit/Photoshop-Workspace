@@ -1,0 +1,56 @@
+.title {
+  text-align: center;
+  margin: auto auto 1em; }
+
+.shortcutcols {
+  border-bottom: thin solid #808080; }
+
+.superscript {
+  font-size: small;
+  vertical-align: super; }
+
+body {
+  font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; }
+
+.parentcol {
+  background: #ccc;
+  cursor: pointer; }
+  .parentcol:hover {
+    background: #aaa; }
+
+.childcol {
+  text-indent: 2em; }
+
+.subcol1 {
+  text-indent: 3em; }
+
+.cmdname {
+  text-align: left; }
+
+.shortcut {
+  text-align: right; }
+
+.menutable {
+  border: none;
+  border-collapse: collapse;
+  margin: auto auto auto 6em; }
+  .menutable td {
+    vertical-align: top;
+    padding: 0.1em 0; }
+
+.quickfind {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: fixed;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  right: 5em; }
+  .quickfind span {
+    display: block;
+    text-align: center;
+    margin: auto auto 1em; }

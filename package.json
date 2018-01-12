@@ -1,0 +1,19 @@
+{
+  "name": "psShortcuts",
+  "version": "1.0.0",
+  "description": "List of current Photoshop keyboard shortcuts",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikki Berry",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-plumber": "latest",
+    "gulp-rename": "latest",
+    "gulp-sass": "latest",
+    "gulp": "latest"
+  }
+}
