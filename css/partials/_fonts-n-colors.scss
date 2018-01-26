@@ -3,10 +3,6 @@
     margin: auto auto 1em;
 }
 
-.shortcutcols {
-    border-bottom: thin solid $gray;
-}
-
 .superscript {
     font-size: small;
     vertical-align: super;
@@ -16,26 +12,38 @@ body {
     font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular;
 }
 
-.parentcol {
+.topmenu {
+    font-weight: bold;
     background: #ccc;
     cursor: pointer;
+    padding: 0.1em .5em;
     &:hover {
         background: #aaa;
     }
 }
 
-.childcol {
-    text-indent: 2em;
+.submenu {
+    font-weight: bold;
+    background: #eee;
+    cursor: pointer;
+    padding: 0.1em .5em;
+    margin: 0.7em 0 0;
+    &:hover {
+        background: #ccc;
+    }
 }
 
-.subcol1 {
-    text-indent: 3em;
-}
-
-.cmdname {
-    text-align: left;
+.nodd {
+    color: $gray;
 }
 
 .shortcut {
-    text-align: right;
+    font-family: Monaco monospace;
+    font-size: 1.12em;
+    color: $cherry;
+}
+
+
+.cmdname {
+    text-align: left;
 }

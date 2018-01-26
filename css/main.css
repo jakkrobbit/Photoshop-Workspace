@@ -2,9 +2,6 @@
   text-align: center;
   margin: auto auto 1em; }
 
-.shortcutcols {
-  border-bottom: thin solid #808080; }
-
 .superscript {
   font-size: small;
   vertical-align: super; }
@@ -12,31 +9,77 @@
 body {
   font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; }
 
-.parentcol {
+.topmenu {
+  font-weight: bold;
   background: #ccc;
-  cursor: pointer; }
-  .parentcol:hover {
+  cursor: pointer;
+  padding: 0.1em .5em; }
+  .topmenu:hover {
     background: #aaa; }
 
-.childcol {
-  text-indent: 2em; }
+.submenu {
+  font-weight: bold;
+  background: #eee;
+  cursor: pointer;
+  padding: 0.1em .5em;
+  margin: 0.7em 0 0; }
+  .submenu:hover {
+    background: #ccc; }
 
-.subcol1 {
-  text-indent: 3em; }
+.nodd {
+  color: #808080; }
+
+.shortcut {
+  font-family: Monaco monospace;
+  font-size: 1.12em;
+  color: #c40000; }
 
 .cmdname {
   text-align: left; }
 
-.shortcut {
-  text-align: right; }
+main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: column;
+          flex-flow: column;
+  margin: auto auto auto 6em;
+  width: 50%; }
 
-.menutable {
-  border: none;
-  border-collapse: collapse;
-  margin: auto auto auto 6em; }
-  .menutable td {
-    vertical-align: top;
-    padding: 0.1em 0; }
+.menulist {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: column;
+          flex-flow: column; }
+  .menulist dd dl {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-flow: column;
+            flex-flow: column; }
+    .menulist dd dl dt {
+      -ms-flex-item-align: start;
+          align-self: flex-start; }
+    .menulist dd dl dd {
+      -ms-flex-item-align: end;
+          align-self: flex-end; }
+
+.keyheader {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  margin: 0 1em;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  max-width: 80%; }
 
 .quickfind {
   display: -webkit-box;

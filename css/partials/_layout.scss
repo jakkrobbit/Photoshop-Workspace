@@ -1,11 +1,33 @@
-.menutable {
-    border: none;
-    border-collapse: collapse;
+main {
+    display: flex;
+    flex-flow: column;
     margin: auto auto auto 6em;
-    td {
-        vertical-align: top;
-        padding: 0.1em 0;
+    width: 50%;
+}
+
+.menulist {
+    display: flex;
+    flex-flow: column;
+    dd {
+        dl {
+            display: flex;
+            flex-flow: column;
+            dt {
+                align-self: flex-start;
+            }
+            dd {
+                align-self: flex-end;
+            }
+        }
+
     }
+}
+
+.keyheader {
+    display: inline-flex;
+    margin: 0 1em;
+    justify-content: center;
+    max-width: 80%;
 }
 
 .quickfind {
