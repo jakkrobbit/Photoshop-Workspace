@@ -34,9 +34,6 @@ body {
   font-size: 1.12em;
   color: #c40000; }
 
-.cmdname {
-  text-align: left; }
-
 main {
   display: -webkit-box;
   display: -ms-flexbox;

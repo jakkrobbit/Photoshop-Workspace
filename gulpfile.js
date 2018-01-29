@@ -7,10 +7,8 @@ var browserSync = require('browser-sync');
 
 gulp.task('browser-sync', function () {
     browserSync({
-        server: {
-            baseDir: "./"
-        },
-        "files": ["*.html", "*.js", "css/*.css", "scripts/*.js"],
+        "proxy": "http://psshortcuts:8080/",
+        "files": ["*.php", "*.html", "*.js", "css/*.css", "scripts/*.js"],
         "open": false
     });
 });
