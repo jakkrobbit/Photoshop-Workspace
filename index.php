@@ -1070,1034 +1070,1093 @@
         <!-- View -->
         <dl class="menulist">
             <dt class="topmenu">View <i class="fas fa-caret-down"></i></dt>
-            <td>Proof Setup></td>
-            <td>Custom...</td>
-            <td>Working CMYK</td>
-            <td>Working Cyan Plate</td>
-            <td>Working Magenta Plate</td>
-            <td>Working Yellow Plate</td>
-            <td>Working Black Plate</td>
-            <td>Working CMY Plates</td>
-            <td>Legacy Macintosh RGB (Gamma 1.8)</td>
-            <td>Internet Standard RGB (sRGB)</td>
-            <td>Monitor RGB</td>
-            <td>Color Blindness - Protanopia-type</td>
-            <td>Color Blindness - Deuteranopia-type</td>
-            <td>Proof Colors</td>
-            <td>Ctrl+Y</td>
-            <td>Gamut Warning</td>
-            <td>Shift+Ctrl+Y</td>
-            <td>Pixel Aspect Ratio></td>
-            <td>Custom Pixel Aspect Ratio...</td>
-            <td>Delete Pixel Aspect Ratio...</td>
-            <td>Reset Pixel Aspect Ratios...</td>
-            <td>Square</td>
-            <td>D1/DV NTSC (0.91)</td>
-            <td>D1/DV PAL (1.09)</td>
-            <td>D1/DV NTSC Widescreen (1.21)</td>
-            <td>HDV 1080/DVCPRO HD 720 (1.33)</td>
-            <td>D1/DV PAL Widescreen (1.46)</td>
-            <td>Anamorphic 2:1 (2)</td>
-            <td>DVCPRO HD 1080 (1.5)</td>
-            <td>Untitled (1)</td>
-            <td>Pixel Aspect Ratio Correction</td>
-            <td>32-bit Preview Options...</td>
-            <td>Zoom In</td>
-            <td>Ctrl++<br>Ctrl+=</td>
-            <td>Zoom Out</td>
-            <td>Ctrl+-</td>
-            <td>Fit on Screen</td>
-            <td>Ctrl+0</td>
-            <td>Fit Artboard on Screen</td>
-            <td>100%</td>
-            <td>Ctrl+1<br>Alt+Ctrl+0</td>
-            <td>200%</td>
-            <td>Print Size</td>
-            <td>Screen Mode></td>
-            <td>Standard Screen Mode</td>
-            <td>Full Screen Mode With Menu Bar</td>
-            <td>Full Screen Mode</td>
-            <td>Extras</td>
-            <td>Ctrl+H</td>
-            <td>Show></td>
-            <td>Layer Edges</td>
-            <td>Selection Edges</td>
-            <td>Target Path</td>
-            <td>Shift+Ctrl+H</td>
-            <td>Grid</td>
-            <td>Ctrl+'</td>
-            <td>Guides</td>
-            <td>Ctrl+;</td>
-            <td>Canvas Guides</td>
-            <td>Artboard Guides</td>
-            <td>Artboard Names</td>
-            <td>Count</td>
-            <td>Smart Guides</td>
-            <td>Slices</td>
-            <td>Notes</td>
-            <td>Pixel Grid</td>
-            <td>3D Secondary View</td>
-            <td>3D Ground Plane</td>
-            <td>3D Lights</td>
-            <td>3D Selection</td>
-            <td>UV Overlay</td>
-            <td>3D Mesh Bounding Box</td>
-            <td>Brush Preview</td>
-            <td>Mesh</td>
-            <td>Edit Pins</td>
-            <td>All</td>
-            <td>None</td>
-            <td>Show Extras Options...</td>
-            <td>Rulers</td>
-            <td>Ctrl+R</td>
-            <td>Snap</td>
-            <td>Shift+Ctrl+;</td>
-            <td>Snap To></td>
-            <td>Guides</td>
-            <td>Grid</td>
-            <td>Layers</td>
-            <td>Slices</td>
-            <td>Document Bounds</td>
-            <td>All</td>
-            <td>None</td>
-            <td>Lock Guides</td>
-            <td>Alt+Ctrl+;</td>
-            <td>Clear Guides</td>
-            <td>Clear Selected Artboard Guides</td>
-            <td>Clear Canvas Guides</td>
-            <td>New Guide...</td>
-            <td>New Guide Layout...</td>
-            <td>New Guides From Shape</td>
-            <td>Lock Slices</td>
-            <td>Clear Slices</td>
+            <dd>
+                <dl>
+                    <dt class="submenu">Proof Setup <i class="fas fa-angle-down"></i></dt>
+                    <dd class="subitem">
+                        <dl>
+                            <dt class="nodd">Custom...</dt>
+                            <dt class="nodd">Working CMYK</dt>
+                            <dt class="nodd">Working Cyan Plate</dt>
+                            <dt class="nodd">Working Magenta Plate</dt>
+                            <dt class="nodd">Working Yellow Plate</dt>
+                            <dt class="nodd">Working Black Plate</dt>
+                            <dt class="nodd">Working CMY Plates</dt>
+                            <dt class="nodd">Legacy Macintosh RGB (Gamma 1.8)</dt>
+                            <dt class="nodd">Internet Standard RGB (sRGB)</dt>
+                            <dt class="nodd">Monitor RGB</dt>
+                            <dt class="nodd">Color Blindness - Protanopia-type</dt>
+                            <dt class="nodd">Color Blindness - Deuteranopia-type</dt>
+                        </dl>
+                    </dd>
+                    <dt>Proof Colors</dt>
+                    <dd class="shortcut">Ctrl+Y</dd>
+                    <dt>Gamut Warning</dt>
+                    <dd class="shortcut">Shift+Ctrl+Y</dd>
+                    <dt class="submenu">Pixel Aspect Ratio <i class="fas fa-angle-down"></i></dt>
+                    <dd class="subitem">
+                        <dl>
+                            <dt class="nodd">Custom Pixel Aspect Ratio...</dt>
+                            <dt class="nodd">Delete Pixel Aspect Ratio...</dt>
+                            <dt class="nodd">Reset Pixel Aspect Ratios...</dt>
+                            <dt class="nodd">Square</dt>
+                            <dt class="nodd">D1/DV NTSC (0.91)</dt>
+                            <dt class="nodd">D1/DV PAL (1.09)</dt>
+                            <dt class="nodd">D1/DV NTSC Widescreen (1.21)</dt>
+                            <dt class="nodd">HDV 1080/DVCPRO HD 720 (1.33)</dt>
+                            <dt class="nodd">D1/DV PAL Widescreen (1.46)</dt>
+                            <dt class="nodd">Anamorphic 2:1 (2)</dt>
+                            <dt class="nodd">DVCPRO HD 1080 (1.5)</dt>
+                            <dt class="nodd">Untitled (1)</dt>
+                        </dl>
+                    </dd>
+                    <dt class="nodd">Pixel Aspect Ratio Correction</dt>
+                    <dt class="nodd">32-bit Preview Options...</dt>
+                    <dt>Zoom In</dt>
+                    <dd class="shortcut">Ctrl++</dd>
+                    <dd class="shortcut">Ctrl+=</dd>
+                    <dt>Zoom Out</dt>
+                    <dd class="shortcut">Ctrl+-</dd>
+                    <dt>Fit on Screen</dt>
+                    <dd class="shortcut">Ctrl+0</dd>
+                    <dt class="nodd">Fit Artboard on Screen</dt>
+                    <dt>100%</dt>
+                    <dd class="shortcut">Ctrl+1</dd>
+                    <dd class="shortcut">Alt+Ctrl+0</dd>
+                    <dt class="nodd">200%</dt>
+                    <dt class="nodd">Print Size</dt>
+                    <dt class="submenu">Screen Mode <i class="fas fa-angle-down"></i></dt>
+                    <dd class="subitem">
+                        <dl>
+                            <dt class="nodd">Standard Screen Mode</dt>
+                            <dt class="nodd">Full Screen Mode With Menu Bar</dt>
+                            <dt class="nodd">Full Screen Mode</dt>
+                        </dl>
+                    </dd>
+                    <dt>Extras</dt>
+                    <dd class="shortcut">Ctrl+H</dd>
+                    <dt class="submenu">Show <i class="fas fa-angle-down"></i></dt>
+                    <dd class="subitem">
+                        <dl>
+                            <dt class="nodd">Layer Edges</dt>
+                            <dt class="nodd">Selection Edges</dt>
+                            <dt>Target Path</dt>
+                            <dd class="shortcut">Shift+Ctrl+H</dd>
+                            <dt>Grid</dt>
+                            <dd class="shortcut">Ctrl+'</dd>
+                            <dt>Guides</dt>
+                            <dd class="shortcut">Ctrl+;</dd>
+                            <dt class="nodd">Canvas Guides</dt>
+                            <dt class="nodd">Artboard Guides</dt>
+                            <dt class="nodd">Artboard Names</dt>
+                            <dt class="nodd">Count</dt>
+                            <dt class="nodd">Smart Guides</dt>
+                            <dt class="nodd">Slices</dt>
+                            <dt class="nodd">Notes</dt>
+                            <dt class="nodd">Pixel Grid</dt>
+                            <dt class="nodd">3D Secondary View</dt>
+                            <dt class="nodd">3D Ground Plane</dt>
+                            <dt class="nodd">3D Lights</dt>
+                            <dt class="nodd">3D Selection</dt>
+                            <dt class="nodd">UV Overlay</dt>
+                            <dt class="nodd">3D Mesh Bounding Box</dt>
+                            <dt class="nodd">Brush Preview</dt>
+                            <dt class="nodd">Mesh</dt>
+                            <dt class="nodd">Edit Pins</dt>
+                            <dt class="nodd">All</dt>
+                            <dt class="nodd">None</dt>
+                            <dt class="nodd">Show Extras Options...</dt>
+                        </dl>
+                    </dd>
+                    <dt>Rulers</dt>
+                    <dd class="shortcut">Ctrl+R</dd>
+                    <dt>Snap</dt>
+                    <dd class="shortcut">Shift+Ctrl+;</dd>
+                    <dt class="submenu">Snap To <i class="fas fa-angle-down"></i></dt>
+                    <dd class="subitem">
+                        <dl>
+                            <dt class="nodd">Guides</dt>
+                            <dt class="nodd">Grid</dt>
+                            <dt class="nodd">Layers</dt>
+                            <dt class="nodd">Slices</dt>
+                            <dt class="nodd">Document Bounds</dt>
+                            <dt class="nodd">All</dt>
+                            <dt class="nodd">None</dt>
+                        </dl>
+                    </dd>
+                    <dt>Lock Guides</dt>
+                    <dd class="shortcut">Alt+Ctrl+;</dd>
+                    <dt class="nodd">Clear Guides</dt>
+                    <dt class="nodd">Clear Selected Artboard Guides</dt>
+                    <dt class="nodd">Clear Canvas Guides</dt>
+                    <dt class="nodd">New Guide...</dt>
+                    <dt class="nodd">New Guide Layout...</dt>
+                    <dt class="nodd">New Guides From Shape</dt>
+                    <dt class="nodd">Lock Slices</dt>
+                    <dt class="nodd">Clear Slices</dt>
+                </dl>
+            </dd>
         </dl>
         <!-- Window -->
         <dl class="menulist">
-            <td>Window</td>
-            <td>Arrange></td>
-            <td>Tile All Vertically</td>
-            <td>Tile All Horizontally</td>
-            <td>2-up Horizontal</td>
-            <td>2-up Vertical</td>
-            <td>3-up Horizontal</td>
-            <td>3-up Vertical</td>
-            <td>3-up Stacked</td>
-            <td>4-up</td>
-            <td>6-up</td>
-            <td>Consolidate All to Tabs</td>
-            <td>Cascade</td>
-            <td>Tile</td>
-            <td>Float in Window</td>
-            <td>Float All in Windows</td>
-            <td>Match Zoom</td>
-            <td>Match Location</td>
-            <td>Match Rotation</td>
-            <td>Match All</td>
-            <td>New Window</td>
-            <td>Workspace></td>
-            <td>MySpace</td>
-            <td>Essentials (Default)</td>
-            <td>3D</td>
-            <td>Graphic and Web</td>
-            <td>Motion</td>
-            <td>Painting</td>
-            <td>Photography</td>
-            <td>Start</td>
-            <td>Reset MySpace</td>
-            <td>New Workspace...</td>
-            <td>Delete Workspace...</td>
-            <td>Keyboard Shortcuts & Menus...</td>
-            <td>Find Extensions on Exchange...</td>
-            <td>Extensions></td>
-            <td>Adobe Color Themes</td>
-            <td>CEP HTML Test Modal Dialog</td>
-            <td>CEP HTML Test Modeless Dialog</td>
-            <td>CEP HTML Test Panel 1</td>
-            <td>CEP HTML Test Panel 2</td>
-            <td>Configurator Reloaded</td>
-            <td>Fontself Maker PS</td>
-            <td>Palettator</td>
-            <td>References</td>
-            <td>TimeTracker</td>
-            <td>dialogTest</td>
-            <td>3D</td>
-            <td>Actions</td>
-            <td>Alt+F9<br>F9</td>
-            <td>Adjustments</td>
-            <td>Brush Settings</td>
-            <td>F5</td>
-            <td>Brushes</td>
-            <td>Alt+F5</td>
-            <td>Channels</td>
-            <td>Character</td>
-            <td>Character Styles</td>
-            <td>Clone Source</td>
-            <td>Color</td>
-            <td>F6</td>
-            <td>Glyphs</td>
-            <td>Histogram</td>
-            <td>History</td>
-            <td>Info</td>
-            <td>F8</td>
-            <td>Layer Comps</td>
-            <td>Layers</td>
-            <td>F7</td>
-            <td>Learn</td>
-            <td>Libraries</td>
-            <td>Measurement Log</td>
-            <td>Modifier Keys</td>
-            <td>Navigator</td>
-            <td>Notes</td>
-            <td>Paragraph</td>
-            <td>Paragraph Styles</td>
-            <td>Paths</td>
-            <td>Properties</td>
-            <td>Styles</td>
-            <td>Swatches</td>
-            <td>Timeline</td>
-            <td>Tool Presets</td>
-            <td>Options</td>
-            <td>Tools</td>
+            <dt class="topmenu">Window <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt class="submenu">Arrange <i class="fas fa-angle-down"></i></dt>
+                    <dd class="subitem">
+                        <dl>
+                            <dt class="nodd">Tile All Vertically</dt>
+                            <dt class="nodd">Tile All Horizontally</dt>
+                            <dt class="nodd">2-up Horizontal</dt>
+                            <dt class="nodd">2-up Vertical</dt>
+                            <dt class="nodd">3-up Horizontal</dt>
+                            <dt class="nodd">3-up Vertical</dt>
+                            <dt class="nodd">3-up Stacked</dt>
+                            <dt class="nodd">4-up</dt>
+                            <dt class="nodd">6-up</dt>
+                            <dt class="nodd">Consolidate All to Tabs</dt>
+                            <dt class="nodd">Cascade</dt>
+                            <dt class="nodd">Tile</dt>
+                            <dt class="nodd">Float in Window</dt>
+                            <dt class="nodd">Float All in Windows</dt>
+                            <dt class="nodd">Match Zoom</dt>
+                            <dt class="nodd">Match Location</dt>
+                            <dt class="nodd">Match Rotation</dt>
+                            <dt class="nodd">Match All</dt>
+                            <dt class="nodd">New Window</dt>
+                        </dl>
+                    </dd>
+                    <dt class="submenu">Workspace <i class="fas fa-angle-down"></i></dt>
+                    <dd class="subitem">
+                        <dl>
+                            <dt class="nodd">MySpace</dt>
+                            <dt class="nodd">Essentials (Default)</dt>
+                            <dt class="nodd">3D</dt>
+                            <dt class="nodd">Graphic and Web</dt>
+                            <dt class="nodd">Motion</dt>
+                            <dt class="nodd">Painting</dt>
+                            <dt class="nodd">Photography</dt>
+                            <dt class="nodd">Start</dt>
+                            <dt class="nodd">Reset MySpace</dt>
+                            <dt class="nodd">New Workspace...</dt>
+                            <dt class="nodd">Delete Workspace...</dt>
+                            <dt class="nodd">Keyboard Shortcuts &amp; Menus...</dt>
+                        </dl>
+                    </dd>
+                    <dt class="nodd">Find Extensions on Exchange...</dt>
+                    <dt class="submenu">Extensions <i class="fas fa-angle-down"></i></dt>
+                    <dd class="subitem">
+                        <dl>
+                            <dt class="nodd">Adobe Color Themes</dt>
+                            <dt class="nodd">CEP HTML Test Modal Dialog</dt>
+                            <dt class="nodd">CEP HTML Test Modeless Dialog</dt>
+                            <dt class="nodd">CEP HTML Test Panel 1</dt>
+                            <dt class="nodd">CEP HTML Test Panel 2</dt>
+                            <dt class="nodd">Configurator Reloaded</dt>
+                            <dt class="nodd">Fontself Maker PS</dt>
+                            <dt class="nodd">Palettator</dt>
+                            <dt class="nodd">References</dt>
+                            <dt class="nodd">TimeTracker</dt>
+                            <dt class="nodd">dialogTest</dt>
+                        </dl>
+                    </dd>
+                    <dt class="nodd">3D</dt>
+                    <dt>Actions</dt>
+                    <dd class="shortcut">Alt+F9<br>F9</dd>
+                    <dt class="nodd">Adjustments</dt>
+                    <dt>Brush Settings</dt>
+                    <dd class="shortcut">F5</dd>
+                    <dt>Brushes</dt>
+                    <dd class="shortcut">Alt+F5</dd>
+                    <dt class="nodd">Channels</dt>
+                    <dt class="nodd">Character</dt>
+                    <dt class="nodd">Character Styles</dt>
+                    <dt class="nodd">Clone Source</dt>
+                    <dt>Color</dt>
+                    <dd class="shortcut">F6</dd>
+                    <dt class="nodd">Glyphs</dt>
+                    <dt class="nodd">Histogram</dt>
+                    <dt class="nodd">History</dt>
+                    <dt>Info</dt>
+                    <dd class="shortcut">F8</dd>
+                    <dt class="nodd">Layer Comps</dt>
+                    <dt>Layers</dt>
+                    <dd class="shortcut">F7</dd>
+                    <dt class="nodd">Learn</dt>
+                    <dt class="nodd">Libraries</dt>
+                    <dt class="nodd">Measurement Log</dt>
+                    <dt class="nodd">Modifier Keys</dt>
+                    <dt class="nodd">Navigator</dt>
+                    <dt class="nodd">Notes</dt>
+                    <dt class="nodd">Paragraph</dt>
+                    <dt class="nodd">Paragraph Styles</dt>
+                    <dt class="nodd">Paths</dt>
+                    <dt class="nodd">Properties</dt>
+                    <dt class="nodd">Styles</dt>
+                    <dt class="nodd">Swatches</dt>
+                    <dt class="nodd">Timeline</dt>
+                    <dt class="nodd">Tool Presets</dt>
+                    <dt class="nodd">Options</dt>
+                    <dt class="nodd">Tools</dt>
+                </dl>
+            </dd>
         </dl>
         <!-- Help -->
         <dl class="menulist">
-            <td>Help</td>
-            <td>Photoshop Help</td>
-            <td>F1</td>
-            <td>Photoshop Tutorials...</td>
-            <td>About Photoshop CC...</td>
-            <td>System Info...</td>
-            <td>Manage My Account...</td>
-            <td>Sign Out (nikkichan0417@hotmail.com)</td>
-            <td>Updates...</td>
+            <dt class="topmenu">Help <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt class="nodd">Photoshop Help</dt>
+                    <dt class="nodd">F1</dt>
+                    <dt class="nodd">Photoshop Tutorials...</dt>
+                    <dt class="nodd">About Photoshop CC...</dt>
+                    <dt class="nodd">System Info...</dt>
+                    <dt class="nodd">Manage My Account...</dt>
+                    <dt class="nodd">Sign Out (nikkichan0417@hotmail.com)</dt>
+                    <dt class="nodd">Updates...</dt>
+                </dl>
+            </dd>
         </dl>
         <!--/////// Panel Menus ///////-->
         <h2>Panel Menus</h2>
         <!-- 3D Panel -->
         <dl class="menulist">
-            <th>Command</th>
-            <th width="400"></th>
-            <th>Shortcut</th>
-            <td></td>
-            <td>3D</td>
-            <td>Move Object to Ground Plane</td>
-            <td>Center Mesh In View</td>
-            <td>Select Paintable Areas</td>
-            <td>Create Painting Overlay></td>
-            <td>Wireframe</td>
-            <td>Shaded</td>
-            <td>Vertex Colors</td>
-            <td>Add Lights Preset...</td>
-            <td>Replace Lights Presets...</td>
-            <td>Save Lights Preset...</td>
-            <td>Delete Current Lights Preset</td>
-            <td>Add Objects></td>
-            <td>Add Mesh Preset></td>
-            <td>Add From File...</td>
-            <td>Delete Objects</td>
-            <td>Duplicate Object</td>
-            <td>Instance Object</td>
-            <td>Bake Object</td>
-            <td>Replace Mesh</td>
-            <td>Group Objects</td>
-            <td>Reverse Order</td>
-            <td>Select Instances</td>
-            <td>Select Reference</td>
-            <td>Export Mesh...</td>
-            <td>Render</td>
-            <td>Alt+Shift+Ctrl+R</td>
-            <td>Export 3D Layer...</td>
-            <td>Close</td>
-            <td>Close Tab Group</td>
+            <dt class="topmenu">3D <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt class="nodd">Move Object to Ground Plane</dt>
+                    <dt class="nodd">Center Mesh In View</dt>
+                    <dt class="nodd">Select Paintable Areas</dt>
+                    <dt class="nodd">Create Painting Overlay></dt>
+                    <dt class="nodd">Wireframe</dt>
+                    <dt class="nodd">Shaded</dt>
+                    <dt class="nodd">Vertex Colors</dt>
+                    <dt class="nodd">Add Lights Preset...</dt>
+                    <dt class="nodd">Replace Lights Presets...</dt>
+                    <dt class="nodd">Save Lights Preset...</dt>
+                    <dt class="nodd">Delete Current Lights Preset</dt>
+                    <dt class="nodd">Add Objects></dt>
+                    <dt class="nodd">Add Mesh Preset></dt>
+                    <dt class="nodd">Add From File...</dt>
+                    <dt class="nodd">Delete Objects</dt>
+                    <dt class="nodd">Duplicate Object</dt>
+                    <dt class="nodd">Instance Object</dt>
+                    <dt class="nodd">Bake Object</dt>
+                    <dt class="nodd">Replace Mesh</dt>
+                    <dt class="nodd">Group Objects</dt>
+                    <dt class="nodd">Reverse Order</dt>
+                    <dt class="nodd">Select Instances</dt>
+                    <dt class="nodd">Select Reference</dt>
+                    <dt class="nodd">Export Mesh...</dt>
+                    <dt>Render</dt>
+                    <dd class="shortcut">Alt+Shift+Ctrl+R</dd>
+                    <dt class="nodd">Export 3D Layer...</dt>
+                    <dt class="nodd">Close</dt>
+                    <dt class="nodd">Close Tab Group</dt>
+                </dl>
+            </dd>
         </dl>
         <!-- Actions Panel -->
         <dl class="menulist">
-            <td>Actions</td>
-            <td>Button Mode</td>
-            <td>New Action...</td>
-            <td>New Set...</td>
-            <td>Duplicate</td>
-            <td>Delete</td>
-            <td>Play</td>
-            <td>Start/Stop Recording</td>
-            <td>Record Again...</td>
-            <td>Insert Menu Item...</td>
-            <td>Insert Stop...</td>
-            <td>Insert Conditional...</td>
-            <td>Insert Path</td>
-            <td>Action Options...</td>
-            <td>Playback Options...</td>
-            <td>Allow Tool Recording</td>
-            <td>Clear All Actions</td>
-            <td>Reset Actions</td>
-            <td>Load Actions...</td>
-            <td>Replace Actions...</td>
-            <td>Save Actions...</td>
-            <td>Commands</td>
-            <td>Frames</td>
-            <td>Image Effects</td>
-            <td>LAB - Black & White Technique</td>
-            <td>Production</td>
-            <td>Stars Trails</td>
-            <td>Text Effects</td>
-            <td>Textures</td>
-            <td>Video Actions</td>
-            <td>Close</td>
-            <td>Close Tab Group</td>
+            <dt class="topmenu">Actions <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt class="nodd">Button Mode</dt>
+                    <dt class="nodd">New Action...</dt>
+                    <dt class="nodd">New Set...</dt>
+                    <dt class="nodd">Duplicate</dt>
+                    <dt class="nodd">Delete</dt>
+                    <dt class="nodd">Play</dt>
+                    <dt class="nodd">Start/Stop Recording</dt>
+                    <dt class="nodd">Record Again...</dt>
+                    <dt class="nodd">Insert Menu Item...</dt>
+                    <dt class="nodd">Insert Stop...</dt>
+                    <dt class="nodd">Insert Conditional...</dt>
+                    <dt class="nodd">Insert Path</dt>
+                    <dt class="nodd">Action Options...</dt>
+                    <dt class="nodd">Playback Options...</dt>
+                    <dt class="nodd">Allow Tool Recording</dt>
+                    <dt class="nodd">Clear All Actions</dt>
+                    <dt class="nodd">Reset Actions</dt>
+                    <dt class="nodd">Load Actions...</dt>
+                    <dt class="nodd">Replace Actions...</dt>
+                    <dt class="nodd">Save Actions...</dt>
+                    <dt class="nodd">Commands</dt>
+                    <dt class="nodd">Frames</dt>
+                    <dt class="nodd">Image Effects</dt>
+                    <dt class="nodd">LAB - Black &amp; White Technique</dt>
+                    <dt class="nodd">Production</dt>
+                    <dt class="nodd">Stars Trails</dt>
+                    <dt class="nodd">Text Effects</dt>
+                    <dt class="nodd">Textures</dt>
+                    <dt class="nodd">Video Actions</dt>
+                    <dt class="nodd">Close</dt>
+                    <dt class="nodd">Close Tab Group</dt>
+                </dl>
+            </dd>
         </dl>
         <!-- Adjustments Panel -->
         <dl class="menulist">
-            <td>Adjustments</td>
-            <td>Auto-Select Parameter</td>
-            <td>Reset</td>
-            <td>Save Preset...</td>
-            <td>Load Preset...</td>
-            <td>Delete Current Preset</td>
-            <td>Auto Options (Levels/Curves)...</td>
-            <td>Show Clipping for Black/White Points (Levels/Curves)</td>
-            <td>Curves Display Options...</td>
-            <td>Brightness/Contrast</td>
-            <td>Levels</td>
-            <td>Curves</td>
-            <td>Exposure</td>
-            <td>Vibrance</td>
-            <td>Hue/Saturation</td>
-            <td>Color Balance</td>
-            <td>Black & White</td>
-            <td>Photo Filter</td>
-            <td>Channel Mixer</td>
-            <td>Invert</td>
-            <td>Posterize</td>
-            <td>Threshold</td>
-            <td>Gradient Map</td>
-            <td>Selective Color</td>
-            <td>Color Lookup</td>
-            <td>Add Mask by Default</td>
-            <td>Clip to Layer</td>
-            <td>Close</td>
-            <td>Close Tab Group</td>
+            <dt class="topmenu">Adjustments <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt class="nodd">Auto-Select Parameter</dt>
+                    <dt class="nodd">Reset</dt>
+                    <dt class="nodd">Save Preset...</dt>
+                    <dt class="nodd">Load Preset...</dt>
+                    <dt class="nodd">Delete Current Preset</dt>
+                    <dt class="nodd">Auto Options (Levels/Curves)...</dt>
+                    <dt class="nodd">Show Clipping for Black/White Points (Levels/Curves)</dt>
+                    <dt class="nodd">Curves Display Options...</dt>
+                    <dt class="nodd">Brightness/Contrast</dt>
+                    <dt class="nodd">Levels</dt>
+                    <dt class="nodd">Curves</dt>
+                    <dt class="nodd">Exposure</dt>
+                    <dt class="nodd">Vibrance</dt>
+                    <dt class="nodd">Hue/Saturation</dt>
+                    <dt class="nodd">Color Balance</dt>
+                    <dt class="nodd">Black &amp; White</dt>
+                    <dt class="nodd">Photo Filter</dt>
+                    <dt class="nodd">Channel Mixer</dt>
+                    <dt class="nodd">Invert</dt>
+                    <dt class="nodd">Posterize</dt>
+                    <dt class="nodd">Threshold</dt>
+                    <dt class="nodd">Gradient Map</dt>
+                    <dt class="nodd">Selective Color</dt>
+                    <dt class="nodd">Color Lookup</dt>
+                    <dt class="nodd">Add Mask by Default</dt>
+                    <dt class="nodd">Clip to Layer</dt>
+                    <dt class="nodd">Close</dt>
+                    <dt class="nodd">Close Tab Group</dt>
+                </dl>
+            </dd>
         </dl>
         <!-- Brush Settings Panel-->
         <dl class="menulist">
-            <td>Brush Settings</td>
-            <td>New Brush Preset...</td>
-            <td>Clear Brush Controls</td>
-            <td>Reset All Locked Settings</td>
-            <td>Copy Texture to Other Tools</td>
+            <dt class="topmenu">Brush Settings <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt class="nodd">New Brush Preset...</dt>
+                    <dt class="nodd">Clear Brush Controls</dt>
+                    <dt class="nodd">Reset All Locked Settings</dt>
+                    <dt class="nodd">Copy Texture to Other Tools</dt>
+                </dl>
+            </dd>
         </dl>
         <!-- Brushes Panel -->
         <dl class="menulist">
-            <td>Brushes</td>
-            <td>New Brush Preset...</td>
-            <td>New Brush Group...</td>
-            <td>Rename Brush...</td>
-            <td>Delete Brush</td>
-            <td>Brush Name</td>
-            <td>Brush Stroke</td>
-            <td>Brush Tip</td>
-            <td>Show Additional Preset Info</td>
-            <td>Show Recent Brushes</td>
-            <td>Preset Manager...</td>
-            <td>Restore Default Brushes...</td>
-            <td>Import Brushes...</td>
-            <td>Export Selected Brushes...</td>
-            <td>Get More Brushes...</td>
-            <td>Converted Legacy Tool Presets</td>
-            <td>Legacy Brushes</td>
-            <td>Main Art Brushes</td>
-            <td>Close</td>
-            <td>Close Tab Group</td>
+            <dt class="topmenu">Brushes <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt class="nodd">New Brush Preset...</dt>
+                    <dt class="nodd">New Brush Group...</dt>
+                    <dt class="nodd">Rename Brush...</dt>
+                    <dt class="nodd">Delete Brush</dt>
+                    <dt class="nodd">Brush Name</dt>
+                    <dt class="nodd">Brush Stroke</dt>
+                    <dt class="nodd">Brush Tip</dt>
+                    <dt class="nodd">Show Additional Preset Info</dt>
+                    <dt class="nodd">Show Recent Brushes</dt>
+                    <dt class="nodd">Preset Manager...</dt>
+                    <dt class="nodd">Restore Default Brushes...</dt>
+                    <dt class="nodd">Import Brushes...</dt>
+                    <dt class="nodd">Export Selected Brushes...</dt>
+                    <dt class="nodd">Get More Brushes...</dt>
+                    <dt class="nodd">Converted Legacy Tool Presets</dt>
+                    <dt class="nodd">Legacy Brushes</dt>
+                    <dt class="nodd">Main Art Brushes</dt>
+                    <dt class="nodd">Close</dt>
+                    <dt class="nodd">Close Tab Group</dt>
+                </dl>
+            </dd>
         </dl>
         <!-- Channels Panel -->
         <dl class="menulist">
-            <td>Channels</td>
-            <td>New Channel...</td>
-            <td>Duplicate Channel...</td>
-            <td>Delete Channels</td>
-            <td>New Spot Channel...</td>
-            <td>Merge Spot Channel</td>
-            <td>Channel Options</td>
-            <td>Split Channels</td>
-            <td>Merge Channels...</td>
-            <td>Panel Options...</td>
-            <td>Close</td>
-            <td>Close Tab Group</td>
+            <dt class="topmenu">Channels <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt class="nodd">New Channel...</dt>
+                    <dt class="nodd">Duplicate Channel...</dt>
+                    <dt class="nodd">Delete Channels</dt>
+                    <dt class="nodd">New Spot Channel...</dt>
+                    <dt class="nodd">Merge Spot Channel</dt>
+                    <dt class="nodd">Channel Options</dt>
+                    <dt class="nodd">Split Channels</dt>
+                    <dt class="nodd">Merge Channels...</dt>
+                    <dt class="nodd">Panel Options...</dt>
+                    <dt class="nodd">Close</dt>
+                    <dt class="nodd">Close Tab Group</dt>
+                </dl>
+            </dd>
         </dl>
         <!-- Clone Source Panel -->
         <dl class="menulist">
-            <td>Clone Source</td>
-            <td>Source 1</td>
-            <td>Source 2</td>
-            <td>Source 3</td>
-            <td>Source 4</td>
-            <td>Source 5</td>
-            <td>Reset Transform</td>
-            <td>Lock Frame</td>
-            <td>Show Overlay</td>
-            <td>Clip to Brush Tip</td>
-            <td>Auto Hide Overlay</td>
-            <td>Invert Overlay</td>
-            <td>Close</td>
-            <td>Close Tab Group</td>
+            <dt class="topmenu">Clone Source <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt class="nodd">Source 1</dt>
+                    <dt class="nodd">Source 2</dt>
+                    <dt class="nodd">Source 3</dt>
+                    <dt class="nodd">Source 4</dt>
+                    <dt class="nodd">Source 5</dt>
+                    <dt class="nodd">Reset Transform</dt>
+                    <dt class="nodd">Lock Frame</dt>
+                    <dt class="nodd">Show Overlay</dt>
+                    <dt class="nodd">Clip to Brush Tip</dt>
+                    <dt class="nodd">Auto Hide Overlay</dt>
+                    <dt class="nodd">Invert Overlay</dt>
+                    <dt class="nodd">Close</dt>
+                    <dt class="nodd">Close Tab Group</dt>
+                </dl>
+            </dd>
         </dl>
         <!-- Color Panel -->
         <dl class="menulist">
-            <td>Color</td>
-            <td>Hue Cube</td>
-            <td>Brightness Cube</td>
-            <td>Grayscale Slider</td>
-            <td>RGB Sliders</td>
-            <td>HSB Sliders</td>
-            <td>CMYK Sliders</td>
-            <td>Lab Sliders</td>
-            <td>Web Color Sliders</td>
-            <td>Copy Color as HTML</td>
-            <td>Copy Color's Hex Code</td>
-            <td>RGB Spectrum</td>
-            <td>CMYK Spectrum</td>
-            <td>Grayscale Ramp</td>
-            <td>Current Colors</td>
-            <td>Make Ramp Web Safe</td>
-            <td>Close</td>
-            <td>Close Tab Group</td>
+            <dt class="topmenu">Color <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt class="nodd">Hue Cube</dt>
+                    <dt class="nodd">Brightness Cube</dt>
+                    <dt class="nodd">Grayscale Slider</dt>
+                    <dt class="nodd">RGB Sliders</dt>
+                    <dt class="nodd">HSB Sliders</dt>
+                    <dt class="nodd">CMYK Sliders</dt>
+                    <dt class="nodd">Lab Sliders</dt>
+                    <dt class="nodd">Web Color Sliders</dt>
+                    <dt class="nodd">Copy Color as HTML</dt>
+                    <dt class="nodd">Copy Color's Hex Code</dt>
+                    <dt class="nodd">RGB Spectrum</dt>
+                    <dt class="nodd">CMYK Spectrum</dt>
+                    <dt class="nodd">Grayscale Ramp</dt>
+                    <dt class="nodd">Current Colors</dt>
+                    <dt class="nodd">Make Ramp Web Safe</dt>
+                    <dt class="nodd">Close</dt>
+                    <dt class="nodd">Close Tab Group</dt>
+                </dl>
+            </dd>
         </dl>
         <!--Histogram Panel -->
         <dl class="menulist">
-            <td>Histogram</td>
-            <td>Uncached Refresh</td>
-            <td>Compact View</td>
-            <td>Expanded View</td>
-            <td>All Channels View</td>
-            <td>Show Statistics</td>
-            <td>Show Channels in Color</td>
-            <td>Close</td>
-            <td>Close Tab Group</td>
+            <dt class="topmenu">Histogram <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt class="nodd">Uncached Refresh</dt>
+                    <dt class="nodd">Compact View</dt>
+                    <dt class="nodd">Expanded View</dt>
+                    <dt class="nodd">All Channels View</dt>
+                    <dt class="nodd">Show Statistics</dt>
+                    <dt class="nodd">Show Channels in Color</dt>
+                    <dt class="nodd">Close</dt>
+                    <dt class="nodd">Close Tab Group</dt>
+                </dl>
+            </dd>
         </dl>
         <!-- History Panel -->
         <dl class="menulist">
-            <td>History</td>
-            <td>Step Forward</td>
-            <td>Shift+Ctrl+Z</td>
-            <td>Step Backward</td>
-            <td>Alt+Ctrl+Z</td>
-            <td>New Snapshot...</td>
-            <td>Delete</td>
-            <td>Clear History</td>
-            <td>New Document</td>
-            <td>History Options...</td>
-            <td>Close</td>
-            <td>Close Tab Group</td>
+            <dt class="topmenu">History <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt>Step Forward</dt>
+                    <dd class="shortcut">Shift+Ctrl+Z</dd>
+                    <dt>Step Backward</dt>
+                    <dd class="shortcut">Alt+Ctrl+Z</dd>
+                    <dt class="nodd">New Snapshot...</dt>
+                    <dt class="nodd">Delete</dt>
+                    <dt class="nodd">Clear History</dt>
+                    <dt class="nodd">New Document</dt>
+                    <dt class="nodd">History Options...</dt>
+                    <dt class="nodd">Close</dt>
+                    <dt class="nodd">Close Tab Group</dt>
+                </dl>
+            </dd>
         </dl>
         <!-- Info Panel -->
         <dl class="menulist">
-            <td>Info</td>
-            <td>Panel Options...</td>
-            <td>Color Samplers</td>
-            <td>Close</td>
-            <td>Close Tab Group</td>
+            <dt class="topmenu">Info <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt class="nodd">Panel Options...</dt>
+                    <dt class="nodd">Color Samplers</dt>
+                    <dt class="nodd">Close</dt>
+                    <dt class="nodd">Close Tab Group</dt>
+                </dl>
+            </dd>
         </dl>
         <!-- Layer Comps Panel -->
         <dl class="menulist">
-            <td>Layer Comps</td>
-            <td>New Layer Comp...</td>
-            <td>Duplicate Layer Comp</td>
-            <td>Delete Layer Comp</td>
-            <td>Update Layer Comp</td>
-            <td>Update Layers</td>
-            <td>Update Layer Visibility</td>
-            <td>Update Layer Position</td>
-            <td>Update Layer Appearance</td>
-            <td>Apply Layer Comp</td>
-            <td>Next Layer Comp</td>
-            <td>Previous Layer Comp</td>
-            <td>Restore Last Document State</td>
-            <td>Layer Comp Options...</td>
-            <td>Close</td>
-            <td>Close Tab Group</td>
+            <dt class="topmenu">Layer Comps <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt class="nodd">New Layer Comp...</dt>
+                    <dt class="nodd">Duplicate Layer Comp</dt>
+                    <dt class="nodd">Delete Layer Comp</dt>
+                    <dt class="nodd">Update Layer Comp</dt>
+                    <dt class="nodd">Update Layers</dt>
+                    <dt class="nodd">Update Layer Visibility</dt>
+                    <dt class="nodd">Update Layer Position</dt>
+                    <dt class="nodd">Update Layer Appearance</dt>
+                    <dt class="nodd">Apply Layer Comp</dt>
+                    <dt class="nodd">Next Layer Comp</dt>
+                    <dt class="nodd">Previous Layer Comp</dt>
+                    <dt class="nodd">Restore Last Document State</dt>
+                    <dt class="nodd">Layer Comp Options...</dt>
+                    <dt class="nodd">Close</dt>
+                    <dt class="nodd">Close Tab Group</dt>
+                </dl>
+            </dd>
         </dl>
         <!-- Layers Panel -->
         <dl class="menulist">
-            <td>Layers</td>
-            <td>New Layer...</td>
-            <td>Shift+Ctrl+N</td>
-            <td>Copy CSS</td>
-            <td>Copy SVG</td>
-            <td>Duplicate Layer (Group)...</td>
-            <td>Alt+Shift+Ctrl+J</td>
-            <td>Delete Layer (Group)</td>
-            <td>Delete Hidden Layers</td>
-            <td>Quick Export as PNG</td>
-            <td>Shift+Ctrl+'</td>
-            <td>Export As...</td>
-            <td>Alt+Shift+Ctrl+'</td>
-            <td>New Group...</td>
-            <td>New Group from Layers...</td>
-            <td>Collapse All Groups</td>
-            <td>New Artboard...</td>
-            <td>Artboard from Group...</td>
-            <td>Artboard from Layers...</td>
-            <td>Lock Layers...</td>
-            <td>Convert to Smart Object</td>
-            <td>Edit Contents</td>
-            <td>Blending Options...</td>
-            <td>Edit Adjustment...</td>
-            <td>Create/Release Clipping Mask</td>
-            <td>Alt+Ctrl+G</td>
-            <td>Link/Unlink Layers</td>
-            <td>Select Linked Layers</td>
-            <td>Merge Layers</td>
-            <td>Ctrl+E</td>
-            <td>Merge Visible</td>
-            <td>Shift+Ctrl+E</td>
-            <td>Flatten Image</td>
-            <td>Animation Options></td>
-            <td>Automatic</td>
-            <td>Always Show</td>
-            <td>Always Hide</td>
-            <td>Panel Options...</td>
-            <td>Close</td>
-            <td>Close Tab Group</td>
+            <dt class="topmenu">Layers <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt>New Layer...</dt>
+                    <dd class="shortcut">Shift+Ctrl+N</dd>
+                    <dt class="nodd">Copy CSS</dt>
+                    <dt class="nodd">Copy SVG</dt>
+                    <dt>Duplicate Layer (Group)...</dt>
+                    <dd class="shortcut">Alt+Shift+Ctrl+J</dd>
+                    <dt class="nodd">Delete Layer (Group)</dt>
+                    <dt class="nodd">Delete Hidden Layers</dt>
+                    <dt>Quick Export as PNG</dt>
+                    <dd class="shortcut">Shift+Ctrl+'</dd>
+                    <dt>Export As...</dt>
+                    <dd class="shortcut">Alt+Shift+Ctrl+'</dd>
+                    <dt class="nodd">New Group...</dt>
+                    <dt class="nodd">New Group from Layers...</dt>
+                    <dt class="nodd">Collapse All Groups</dt>
+                    <dt class="nodd">New Artboard...</dt>
+                    <dt class="nodd">Artboard from Group...</dt>
+                    <dt class="nodd">Artboard from Layers...</dt>
+                    <dt class="nodd">Lock Layers...</dt>
+                    <dt class="nodd">Convert to Smart Object</dt>
+                    <dt class="nodd">Edit Contents</dt>
+                    <dt class="nodd">Blending Options...</dt>
+                    <dt class="nodd">Edit Adjustment...</dt>
+                    <dt>Create/Release Clipping Mask</dt>
+                    <dd class="shortcut">Alt+Ctrl+G</dd>
+                    <dt class="nodd">Link/Unlink Layers</dt>
+                    <dt class="nodd">Select Linked Layers</dt>
+                    <dt>Merge Layers</dt>
+                    <dd class="shortcut">Ctrl+E</dd>
+                    <dt>Merge Visible</dt>
+                    <dd class="shortcut">Shift+Ctrl+E</dd>
+                    <dt class="nodd">Flatten Image</dt>
+                    <dt class="nodd">Animation Options></dt>
+                    <dt class="nodd">Automatic</dt>
+                    <dt class="nodd">Always Show</dt>
+                    <dt class="nodd">Always Hide</dt>
+                    <dt class="nodd">Panel Options...</dt>
+                    <dt class="nodd">Close</dt>
+                    <dt class="nodd">Close Tab Group</dt>
+                </dl>
+            </dd>
         </dl>
         <!-- Measurement Log Panel -->
         <dl class="menulist">
-            <td>Measurement Log</td>
-            <td>Set Measurement Scale></td>
-            <td>Default</td>
-            <td>Custom...</td>
-            <td>Select Data Points></td>
-            <td>Custom...</td>
-            <td>Record Measurements</td>
-            <td>Select All</td>
-            <td>Deselect All</td>
-            <td>Export Selected...</td>
-            <td>Delete Selected</td>
-            <td>Auto Display Panel</td>
-            <td>Close</td>
-            <td>Close Tab Group</td>
+            <dt class="topmenu">Measurement Log <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt class="nodd">Set Measurement Scale></dt>
+                    <dt class="nodd">Default</dt>
+                    <dt class="nodd">Custom...</dt>
+                    <dt class="nodd">Select Data Points></dt>
+                    <dt class="nodd">Custom...</dt>
+                    <dt class="nodd">Record Measurements</dt>
+                    <dt class="nodd">Select All</dt>
+                    <dt class="nodd">Deselect All</dt>
+                    <dt class="nodd">Export Selected...</dt>
+                    <dt class="nodd">Delete Selected</dt>
+                    <dt class="nodd">Auto Display Panel</dt>
+                    <dt class="nodd">Close</dt>
+                    <dt class="nodd">Close Tab Group</dt>
+                </dl>
+            </dd>
         </dl>
         <!-- Navigator Panel -->
         <dl class="menulist">
-            <td>Navigator</td>
-            <td>Panel Options...</td>
-            <td>Close</td>
-            <td>Close Tab Group</td>
+            <dt class="topmenu">Navigator <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt class="nodd">Panel Options...</dt>
+                    <dt class="nodd">Close</dt>
+                    <dt class="nodd">Close Tab Group</dt>
+                </dl>
+            </dd>
         </dl>
         <!-- Paths Panel -->
         <dl class="menulist">
-            <td>Paths</td>
-            <td>New Path...</td>
-            <td>Duplicate Path...</td>
-            <td>Delete Path</td>
-            <td>Make Work Path...</td>
-            <td>Make Selection...</td>
-            <td>Fill Path...</td>
-            <td>Shift+Ctrl+.</td>
-            <td>Stroke Path...</td>
-            <td>Shift+Ctrl+,</td>
-            <td>Clipping Path...</td>
-            <td>Make Symmetry Path</td>
-            <td>Disable Symmetry Path</td>
-            <td>Panel Options...</td>
-            <td>Close</td>
-            <td>Close Tab Group</td>
-            <td>Properties</td>
-            <td>Close</td>
-            <td>Close Tab Group</td>
+            <dt class="topmenu">Paths <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt class="nodd">New Path...</dt>
+                    <dt class="nodd">Duplicate Path...</dt>
+                    <dt class="nodd">Delete Path</dt>
+                    <dt class="nodd">Make Work Path...</dt>
+                    <dt class="nodd">Make Selection...</dt>
+                    <dt>Fill Path...</dt>
+                    <dd class="shortcut">Shift+Ctrl+.</dd>
+                    <dt>Stroke Path...</dt>
+                    <dd class="shortcut">Shift+Ctrl+,</dd>
+                    <dt class="nodd">Clipping Path...</dt>
+                    <dt class="nodd">Make Symmetry Path</dt>
+                    <dt class="nodd">Disable Symmetry Path</dt>
+                    <dt class="nodd">Panel Options...</dt>
+                    <dt class="nodd">Close</dt>
+                    <dt class="nodd">Close Tab Group</dt>
+                    <dt class="nodd">Properties</dt>
+                    <dt class="nodd">Close</dt>
+                    <dt class="nodd">Close Tab Group</dt>
+                </dl>
+            </dd>
         </dl>
         <!-- Status Panel -->
         <dl class="menulist">
-            <td>Status</td>
-            <td>Show></td>
-            <td>Document Sizes</td>
-            <td>Document Profile</td>
-            <td>Document Dimensions</td>
-            <td>Measurement Scale</td>
-            <td>Scratch Sizes</td>
-            <td>Efficiency</td>
-            <td>Timing</td>
-            <td>Current Tool</td>
-            <td>32-bit Exposure</td>
-            <td>Save Progress</td>
+            <dt class="topmenu">Status <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt class="submenu">Show <i class="fas fa-angle-down"></i></dt>
+                    <dd class="subitem">
+                        <dl>
+                            <dt class="nodd">Document Sizes</dt>
+                            <dt class="nodd">Document Profile</dt>
+                            <dt class="nodd">Document Dimensions</dt>
+                            <dt class="nodd">Measurement Scale</dt>
+                            <dt class="nodd">Scratch Sizes</dt>
+                            <dt class="nodd">Efficiency</dt>
+                            <dt class="nodd">Timing</dt>
+                            <dt class="nodd">Current Tool</dt>
+                            <dt class="nodd">32-bit Exposure</dt>
+                            <dt class="nodd">Save Progress</dt>
+                        </dl>
+                    </dd>
+                </dl>
+            </dd>
         </dl>
         <!-- Stlyes Panel -->
         <dl class="menulist">
-            <td>Styles</td>
-            <td>New Style...</td>
-            <td>Text Only</td>
-            <td>Small Thumbnail</td>
-            <td>Large Thumbnail</td>
-            <td>Small List</td>
-            <td>Large List</td>
-            <td>Preset Manager...</td>
-            <td>Reset Styles...</td>
-            <td>Load Styles...</td>
-            <td>Save Styles...</td>
-            <td>Replace Styles...</td>
-            <td>Abstract Styles</td>
-            <td>Buttons</td>
-            <td>Dotted Strokes</td>
-            <td>DP Styles</td>
-            <td>Glass Buttons</td>
-            <td>Image Effects</td>
-            <td>KS Styles</td>
-            <td>Photographic Effects</td>
-            <td>Text Effects 2</td>
-            <td>Text Effects</td>
-            <td>Textures</td>
-            <td>Web Styles</td>
-            <td>Close</td>
-            <td>Close Tab Group</td>
+            <dt class="topmenu">Styles <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt class="nodd">New Style...</dt>
+                    <dt class="nodd">Text Only</dt>
+                    <dt class="nodd">Small Thumbnail</dt>
+                    <dt class="nodd">Large Thumbnail</dt>
+                    <dt class="nodd">Small List</dt>
+                    <dt class="nodd">Large List</dt>
+                    <dt class="nodd">Preset Manager...</dt>
+                    <dt class="nodd">Reset Styles...</dt>
+                    <dt class="nodd">Load Styles...</dt>
+                    <dt class="nodd">Save Styles...</dt>
+                    <dt class="nodd">Replace Styles...</dt>
+                    <dt class="nodd">Abstract Styles</dt>
+                    <dt class="nodd">Buttons</dt>
+                    <dt class="nodd">Dotted Strokes</dt>
+                    <dt class="nodd">DP Styles</dt>
+                    <dt class="nodd">Glass Buttons</dt>
+                    <dt class="nodd">Image Effects</dt>
+                    <dt class="nodd">KS Styles</dt>
+                    <dt class="nodd">Photographic Effects</dt>
+                    <dt class="nodd">Text Effects 2</dt>
+                    <dt class="nodd">Text Effects</dt>
+                    <dt class="nodd">Textures</dt>
+                    <dt class="nodd">Web Styles</dt>
+                    <dt class="nodd">Close</dt>
+                    <dt class="nodd">Close Tab Group</dt>
+                </dl>
+            </dd>
         </dl>
         <!--Swatches Panel -->
         <dl class="menulist">
-            <td>Swatches</td>
-            <td>New Swatch...</td>
-            <td>Tiny Thumbnail</td>
-            <td>Small Thumbnail</td>
-            <td>Large Thumbnail</td>
-            <td>Small List</td>
-            <td>Large List</td>
-            <td>Show Recent Colors</td>
-            <td>Preset Manager...</td>
-            <td>Reset Swatches...</td>
-            <td>Load Swatches...</td>
-            <td>Save Swatches...</td>
-            <td>Save Swatches for Exchange...</td>
-            <td>Replace Swatches...</td>
-            <td>ANPA Colors</td>
-            <td>DIC Color Guide</td>
-            <td>FOCOLTONE Colors</td>
-            <td>HKS E Process</td>
-            <td>HKS E</td>
-            <td>HKS K Process</td>
-            <td>HKS K</td>
-            <td>HKS N Process</td>
-            <td>HKS N</td>
-            <td>HKS Z Process</td>
-            <td>HKS Z</td>
-            <td>Mac OS</td>
-            <td>Paint Color Swatches</td>
-            <td>PANTONE solid coated</td>
-            <td>PANTONE solid uncoated</td>
-            <td>PANTONE+ CMYK Coated</td>
-            <td>PANTONE+ CMYK Uncoated</td>
-            <td>PANTONE+ Color Bridge Coated</td>
-            <td>PANTONE+ Color Bridge Uncoated</td>
-            <td>PANTONE+ Metallic Coated</td>
-            <td>PANTONE+ Pastels & Neons Coated</td>
-            <td>PANTONE+ Pastels & Neons Uncoated</td>
-            <td>PANTONE+ Premium Metallics Coated</td>
-            <td>PANTONE+ Solid Coated</td>
-            <td>PANTONE+ Solid Uncoated</td>
-            <td>Photo Filter Colors</td>
-            <td>TOYO 94 COLOR FINDER</td>
-            <td>TOYO COLOR FINDER</td>
-            <td>TRUMATCH Colors</td>
-            <td>VisiBone</td>
-            <td>VisiBone2</td>
-            <td>Web Hues</td>
-            <td>Web Safe Colors</td>
-            <td>Web Spectrum</td>
-            <td>Windows</td>
-            <td>Close</td>
-            <td>Close Tab Group</td>
+            <dt class="topmenu">Swatches <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt class="nodd">New Swatch...</dt>
+                    <dt class="nodd">Tiny Thumbnail</dt>
+                    <dt class="nodd">Small Thumbnail</dt>
+                    <dt class="nodd">Large Thumbnail</dt>
+                    <dt class="nodd">Small List</dt>
+                    <dt class="nodd">Large List</dt>
+                    <dt class="nodd">Show Recent Colors</dt>
+                    <dt class="nodd">Preset Manager...</dt>
+                    <dt class="nodd">Reset Swatches...</dt>
+                    <dt class="nodd">Load Swatches...</dt>
+                    <dt class="nodd">Save Swatches...</dt>
+                    <dt class="nodd">Save Swatches for Exchange...</dt>
+                    <dt class="nodd">Replace Swatches...</dt>
+                    <dt class="nodd">ANPA Colors</dt>
+                    <dt class="nodd">DIC Color Guide</dt>
+                    <dt class="nodd">FOCOLTONE Colors</dt>
+                    <dt class="nodd">HKS E Process</dt>
+                    <dt class="nodd">HKS E</dt>
+                    <dt class="nodd">HKS K Process</dt>
+                    <dt class="nodd">HKS K</dt>
+                    <dt class="nodd">HKS N Process</dt>
+                    <dt class="nodd">HKS N</dt>
+                    <dt class="nodd">HKS Z Process</dt>
+                    <dt class="nodd">HKS Z</dt>
+                    <dt class="nodd">Mac OS</dt>
+                    <dt class="nodd">Paint Color Swatches</dt>
+                    <dt class="nodd">PANTONE solid coated</dt>
+                    <dt class="nodd">PANTONE solid uncoated</dt>
+                    <dt class="nodd">PANTONE+ CMYK Coated</dt>
+                    <dt class="nodd">PANTONE+ CMYK Uncoated</dt>
+                    <dt class="nodd">PANTONE+ Color Bridge Coated</dt>
+                    <dt class="nodd">PANTONE+ Color Bridge Uncoated</dt>
+                    <dt class="nodd">PANTONE+ Metallic Coated</dt>
+                    <dt class="nodd">PANTONE+ Pastels &amp; Neons Coated</dt>
+                    <dt class="nodd">PANTONE+ Pastels &amp; Neons Uncoated</dt>
+                    <dt class="nodd">PANTONE+ Premium Metallics Coated</dt>
+                    <dt class="nodd">PANTONE+ Solid Coated</dt>
+                    <dt class="nodd">PANTONE+ Solid Uncoated</dt>
+                    <dt class="nodd">Photo Filter Colors</dt>
+                    <dt class="nodd">TOYO 94 COLOR FINDER</dt>
+                    <dt class="nodd">TOYO COLOR FINDER</dt>
+                    <dt class="nodd">TRUMATCH Colors</dt>
+                    <dt class="nodd">VisiBone</dt>
+                    <dt class="nodd">VisiBone2</dt>
+                    <dt class="nodd">Web Hues</dt>
+                    <dt class="nodd">Web Safe Colors</dt>
+                    <dt class="nodd">Web Spectrum</dt>
+                    <dt class="nodd">Windows</dt>
+                    <dt class="nodd">Close</dt>
+                    <dt class="nodd">Close Tab Group</dt>
+                </dl>
+            </dd>
         </dl>
         <!--Timelines (Frames) Panel -->
         <dl class="menulist">
-            <td>Timeline (Frames)</td>
-            <td>New Frame</td>
-            <td>Delete Frames</td>
-            <td>Delete Animation</td>
-            <td>Copy Frames</td>
-            <td>Paste Frames...</td>
-            <td>Select All Frames</td>
-            <td>Go To></td>
-            <td>Next Frame</td>
-            <td>Previous Frame</td>
-            <td>First Frame</td>
-            <td>Last Frame</td>
-            <td>Tween...</td>
-            <td>Reverse Frames</td>
-            <td>Optimize Animation...</td>
-            <td>Make Frames From Layers</td>
-            <td>Flatten Frames Into Layers</td>
-            <td>Match Layer Across Frames...</td>
-            <td>Create New Layer for Each New Frame</td>
-            <td>New Layers Visible in All Frames</td>
-            <td>Convert to Video Timeline</td>
-            <td>Panel Options...</td>
-            <td>Close</td>
-            <td>Close Tab Group</td>
+            <dt class="topmenu">Timeline (Frames) <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt class="nodd">New Frame</dt>
+                    <dt class="nodd">Delete Frames</dt>
+                    <dt class="nodd">Delete Animation</dt>
+                    <dt class="nodd">Copy Frames</dt>
+                    <dt class="nodd">Paste Frames...</dt>
+                    <dt class="nodd">Select All Frames</dt>
+                    <dt class="submenu">Go To <i class="fas fa-angle-down"></i></dt>
+                    <dd class="subitem">
+                        <dl>
+                            <dt class="nodd">Next Frame</dt>
+                            <dt class="nodd">Previous Frame</dt>
+                            <dt class="nodd">First Frame</dt>
+                            <dt class="nodd">Last Frame</dt>
+                        </dl>
+                    </dd>
+                    <dt class="nodd">Tween...</dt>
+                    <dt class="nodd">Reverse Frames</dt>
+                    <dt class="nodd">Optimize Animation...</dt>
+                    <dt class="nodd">Make Frames From Layers</dt>
+                    <dt class="nodd">Flatten Frames Into Layers</dt>
+                    <dt class="nodd">Match Layer Across Frames...</dt>
+                    <dt class="nodd">Create New Layer for Each New Frame</dt>
+                    <dt class="nodd">New Layers Visible in All Frames</dt>
+                    <dt class="nodd">Convert to Video Timeline</dt>
+                    <dt class="nodd">Panel Options...</dt>
+                    <dt class="nodd">Close</dt>
+                    <dt class="nodd">Close Tab Group</dt>
+                </dl>
+            </dd>
         </dl>
         <!-- Timeline (Video) Panel -->
         <dl class="menulist">
-            <td>Timeline (Video)</td>
-            <td>Go To></td>
-            <td>Time...</td>
-            <td>Next Frame</td>
-            <td>Previous Frame</td>
-            <td>First Frame</td>
-            <td>Last Frame</td>
-            <td>Start of Work Area</td>
-            <td>End of Work Area</td>
-            <td>Split at Playhead</td>
-            <td>Move & Trim></td>
-            <td>Move Start to Playhead</td>
-            <td>Move End to Playhead</td>
-            <td>Trim Start at Playhead</td>
-            <td>Trim End at Playhead</td>
-            <td>Convert Frames></td>
-            <td>Make Frames from Clips</td>
-            <td>Flatten Frames into Clips</td>
-            <td>Convert to Frame Animation</td>
-            <td>Work Area></td>
-            <td>Set Start at Playhead</td>
-            <td>Set End at Playhead</td>
-            <td>Extract Work Area</td>
-            <td>Lift Work Area</td>
-            <td>Delete Timeline</td>
-            <td>Keyframes></td>
-            <td>Delete</td>
-            <td>Copy</td>
-            <td>Paste</td>
-            <td>Select All</td>
-            <td>Deselect All</td>
-            <td>Linear Interpolation</td>
-            <td>Hold Interpolation</td>
-            <td>Comments></td>
-            <td>Edit Timeline Comment...</td>
-            <td>Export As HTML...</td>
-            <td>Export As Text...</td>
-            <td>Loop Playback</td>
-            <td>Allow Frame Skipping</td>
-            <td>Show></td>
-            <td>All Clips</td>
-            <td>Video Groups Only</td>
-            <td>Favorite Clips Only</td>
-            <td>Set Favorite Clips</td>
-            <td>Comments Track</td>
-            <td>Global Light Track</td>
-            <td>Enable Timeline Shortcut Keys</td>
-            <td>Enable Auto-Grouping of Clips</td>
-            <td>Enable Onion Skins</td>
-            <td>Enable 3D Tracks</td>
-            <td>Onion Skin Settings...</td>
-            <td>Set Timeline Frame Rate...</td>
-            <td>Panel Options...</td>
-            <td>Render Video...</td>
-            <td>Close</td>
-            <td>Close Tab Group</td>
+            <dt class="topmenu">Timeline (Video) <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt class="submenu">Go To <i class="fas fa-angle-down"></i></dt>
+                    <dd class="subitem">
+                        <dl>
+                            <dt class="nodd">Time...</dt>
+                            <dt class="nodd">Next Frame</dt>
+                            <dt class="nodd">Previous Frame</dt>
+                            <dt class="nodd">First Frame</dt>
+                            <dt class="nodd">Last Frame</dt>
+                            <dt class="nodd">Start of Work Area</dt>
+                            <dt class="nodd">End of Work Area</dt>
+                        </dl>
+                    </dd>
+                    <dt class="nodd">Split at Playhead</dt>
+                    <dt class="submenu">Move &amp; Trim  <i class="fas fa-angle-down"></i></dt>
+                    <dd class="subitem">
+                        <dl>
+                            <dt class="nodd">Move Start to Playhead</dt>
+                            <dt class="nodd">Move End to Playhead</dt>
+                            <dt class="nodd">Trim Start at Playhead</dt>
+                            <dt class="nodd">Trim End at Playhead</dt>
+                        </dl>
+                    </dd>
+                    <dt class="submenu">Convert Frames <i class="fas fa-angle-down"></i></dt>
+                    <dd class="subitem">
+                        <dl>
+                            <dt class="nodd">Make Frames from Clips</dt>
+                            <dt class="nodd">Flatten Frames into Clips</dt>
+                            <dt class="nodd">Convert to Frame Animation</dt>
+                        </dl>
+                    </dd>
+                    <dt class="submenu">Work Area <i class="fas fa-angle-down"></i></dt>
+                    <dd class="subitem">
+                        <dl>
+                            <dt class="nodd">Set Start at Playhead</dt>
+                            <dt class="nodd">Set End at Playhead</dt>
+                            <dt class="nodd">Extract Work Area</dt>
+                            <dt class="nodd">Lift Work Area</dt>
+                        </dl>
+                    </dd>
+                    <dt class="nodd">Delete Timeline</dt>
+                    <dt class="submenu">Keyframes <i class="fas fa-angle-down"></i></dt>
+                    <dd class="subitem">
+                        <dl>
+                            <dt class="nodd">Delete</dt>
+                            <dt class="nodd">Copy</dt>
+                            <dt class="nodd">Paste</dt>
+                            <dt class="nodd">Select All</dt>
+                            <dt class="nodd">Deselect All</dt>
+                            <dt class="nodd">Linear Interpolation</dt>
+                            <dt class="nodd">Hold Interpolation</dt>
+                        </dl>
+                    </dd>
+                    <dt class="submenu">Comments <i class="fas fa-angle-down"></i></dt>
+                    <dd class="subitem">
+                        <dl>
+                            <dt class="nodd">Edit Timeline Comment...</dt>
+                            <dt class="nodd">Export As HTML...</dt>
+                            <dt class="nodd">Export As Text...</dt>
+                        </dl>
+                    </dd>
+                    <dt class="nodd">Loop Playback</dt>
+                    <dt class="nodd">Allow Frame Skipping</dt>
+                    <dt class="nodd">Show <i class="fas fa-angle-down"></i></dt>
+                    <dd class="subitem">
+                        <dl>
+                            <dt class="nodd">All Clips</dt>
+                            <dt class="nodd">Video Groups Only</dt>
+                            <dt class="nodd">Favorite Clips Only</dt>
+                            <dt class="nodd">Set Favorite Clips</dt>
+                            <dt class="nodd">Comments Track</dt>
+                            <dt class="nodd">Global Light Track</dt>
+                        </dl>
+                    </dd>
+                    <dt class="nodd">Enable Timeline Shortcut Keys</dt>
+                    <dt class="nodd">Enable Auto-Grouping of Clips</dt>
+                    <dt class="nodd">Enable Onion Skins</dt>
+                    <dt class="nodd">Enable 3D Tracks</dt>
+                    <dt class="nodd">Onion Skin Settings...</dt>
+                    <dt class="nodd">Set Timeline Frame Rate...</dt>
+                    <dt class="nodd">Panel Options...</dt>
+                    <dt class="nodd">Render Video...</dt>
+                    <dt class="nodd">Close</dt>
+                    <dt class="nodd">Close Tab Group</dt>
+                </dl>
+            </dd>
         </dl>
         <!-- Tool Presets Panel -->
         <dl class="menulist">
-            <td>Tool Presets</td>
-            <td>New Tool Preset...</td>
-            <td>Rename Tool Preset...</td>
-            <td>Delete Tool Preset</td>
-            <td>Sort by Tool</td>
-            <td>Show All Tool Presets</td>
-            <td>Show Current Tool Presets</td>
-            <td>Text Only</td>
-            <td>Small List</td>
-            <td>Large List</td>
-            <td>Reset Tool</td>
-            <td>Reset All Tools</td>
-            <td>Preset Manager...</td>
-            <td>Reset Tool Presets...</td>
-            <td>Load Tool Presets...</td>
-            <td>Save Tool Presets...</td>
-            <td>Replace Tool Presets...</td>
-            <td>Convert to Brush Preset</td>
-            <td>Convert All to Brush Presets...</td>
-            <td>Crop and Marquee</td>
-            <td>Text</td>
-            <td>Close</td>
-            <td>Close Tab Group</td>
+            <dt class="topmenu">Tool Presets <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt class="nodd">New Tool Preset...</dt>
+                    <dt class="nodd">Rename Tool Preset...</dt>
+                    <dt class="nodd">Delete Tool Preset</dt>
+                    <dt class="nodd">Sort by Tool</dt>
+                    <dt class="nodd">Show All Tool Presets</dt>
+                    <dt class="nodd">Show Current Tool Presets</dt>
+                    <dt class="nodd">Text Only</dt>
+                    <dt class="nodd">Small List</dt>
+                    <dt class="nodd">Large List</dt>
+                    <dt class="nodd">Reset Tool</dt>
+                    <dt class="nodd">Reset All Tools</dt>
+                    <dt class="nodd">Preset Manager...</dt>
+                    <dt class="nodd">Reset Tool Presets...</dt>
+                    <dt class="nodd">Load Tool Presets...</dt>
+                    <dt class="nodd">Save Tool Presets...</dt>
+                    <dt class="nodd">Replace Tool Presets...</dt>
+                    <dt class="nodd">Convert to Brush Preset</dt>
+                    <dt class="nodd">Convert All to Brush Presets...</dt>
+                    <dt class="nodd">Crop and Marquee</dt>
+                    <dt class="nodd">Text</dt>
+                    <dt class="nodd">Close</dt>
+                    <dt class="nodd">Close Tab Group</dt>
+                </dl>
+            </dd>
         </dl>
         <h2>Tools</h2>
         <dl class="menulist">
-            <th>Tools</th>
-            <th width="75">&nbsp;</th>
-            <th>Shortcut</th>
-            <td>Move Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>V</td>
-            <td>Artboard Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>V</td>
-            <td>Rectangular Marquee Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>M</td>
-            <td>Elliptical Marquee Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>M</td>
-            <td>Single Row Marquee Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>Single Column Marquee Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>Lasso Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>L</td>
-            <td>Polygonal Lasso Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>L</td>
-            <td>Magnetic Lasso Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>L</td>
-            <td>Quick Selection Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>W</td>
-            <td>Magic Wand Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>W</td>
-            <td>Crop Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>C</td>
-            <td>Perspective Crop Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>C</td>
-            <td>Slice Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>C</td>
-            <td>Slice Select Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>C</td>
-            <td>Eyedropper Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>I</td>
-            <td>3D Material Eyedropper Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>I</td>
-            <td>Color Sampler Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>I</td>
-            <td>Ruler Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>I</td>
-            <td>Note Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>I</td>
-            <td>Count Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>I</td>
-            <td>Spot Healing Brush Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>J</td>
-            <td>Healing Brush Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>J</td>
-            <td>Patch Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>J</td>
-            <td>Content-Aware Move Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>J</td>
-            <td>Red Eye Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>J</td>
-            <td>Brush Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>B</td>
-            <td>Pencil Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>B</td>
-            <td>Color Replacement Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>B</td>
-            <td>Mixer Brush Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>B</td>
-            <td>Clone Stamp Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>S</td>
-            <td>Pattern Stamp Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>S</td>
-            <td>History Brush Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>Y</td>
-            <td>Art History Brush Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>Y</td>
-            <td>Eraser Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>E</td>
-            <td>Background Eraser Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>E</td>
-            <td>Magic Eraser Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>E</td>
-            <td>Gradient Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>G</td>
-            <td>Paint Bucket Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>G</td>
-            <td>3D Material Drop Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>G</td>
-            <td>Blur Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>Sharpen Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>Smudge Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>Dodge Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>O</td>
-            <td>Burn Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>O</td>
-            <td>Sponge Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>O</td>
-            <td>Pen Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>P</td>
-            <td>Freeform Pen Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>P</td>
-            <td>Convert Point Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>P</td>
-            <td>Add Anchor Point Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>Delete Anchor Point Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>Horizontal Type Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>T</td>
-            <td>Vertical Type Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>T</td>
-            <td>Vertical Type Mask Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>T</td>
-            <td>Horizontal Type Mask Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>T</td>
-            <td>Path Selection Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>A</td>
-            <td>Direct Selection Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>A</td>
-            <td>Rectangle Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>U</td>
-            <td>Rounded Rectangle Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>U</td>
-            <td>Ellipse Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>U</td>
-            <td>Polygon Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>U</td>
-            <td>Line Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>U</td>
-            <td>Custom Shape Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>U</td>
-            <td>Hand Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>H</td>
-            <td>Rotate View Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>R</td>
-            <td>Zoom Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>Curvature Pen Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>P</td>
-            <td>Targeted Adjustment Tool</td>
-            <td width="250">&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>Default Foreground/Background Colors</td>
-            <td width="250">&nbsp;</td>
-            <td>D</td>
-            <td>Switch Foreground/Background Colors</td>
-            <td width="250">&nbsp;</td>
-            <td>X</td>
-            <td>Toggle Standard/Quick Mask Modes</td>
-            <td width="250">&nbsp;</td>
-            <td>Q</td>
-            <td>Toggle Screen Modes</td>
-            <td width="250">&nbsp;</td>
-            <td>F</td>
-            <td>Toggle Preserve Transparency</td>
-            <td width="250">&nbsp;</td>
-            <td>/</td>
-            <td>Decrease Brush Size</td>
-            <td width="250">&nbsp;</td>
-            <td>[</td>
-            <td>Increase Brush Size</td>
-            <td width="250">&nbsp;</td>
-            <td>]</td>
-            <td>Decrease Brush Hardness</td>
-            <td width="250">&nbsp;</td>
-            <td>{</td>
-            <td>Increase Brush Hardness</td>
-            <td width="250">&nbsp;</td>
-            <td>}</td>
-            <td>Previous Brush</td>
-            <td width="250">&nbsp;</td>
-            <td>,</td>
-            <td>Next Brush</td>
-            <td width="250">&nbsp;</td>
-            <td>.</td>
-            <td>First Brush</td>
-            <td width="250">&nbsp;</td>
-            <td>&lt;</td>
-            <td>Last Brush</td>
-            <td width="250">&nbsp;</td>
-            <td>&gt;</td>
-            <td>Foreground Color Picker</td>
-            <td width="250">&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>Background Color Picker</td>
-            <td width="250">&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>Load Mixer Brush</td>
-            <td width="250">&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>Clean Mixer Brush</td>
-            <td width="250">&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>Toggle Mixer Brush Auto-Load</td>
-            <td width="250">&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>Toggle Mixer Brush Auto-Clean</td>
-            <td width="250">&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>Toggle Mixer Brush Sample All Layers</td>
-            <td width="250">&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>Sharpen Erodible Tips</td>
-            <td width="250">&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>Direct Selection Mode Toggle</td>
-            <td width="250">&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>Toggle Brush Airbrush Mode</td>
-            <td width="250">&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>Toggle Brush Pressure Controls Size</td>
-            <td width="250">&nbsp;</td>
-            <td>Z</td>
-            <td>Toggle Brush Pressure Controls Opacity</td>
-            <td width="250">&nbsp;</td>
-            <td>N</td>
+            <dt class="topmenu">Tools <i class="fas fa-caret-down"></i></dt>
+            <dd>
+                <dl>
+                    <dt>Move Tool</dt>
+                    <dd class="shortcut">V</dd>
+                    <dt>Artboard Tool</dt>
+                    <dd class="shortcut">V</dd>
+                    <dt>Rectangular Marquee Tool</dt>
+                    <dd class="shortcut">M</dd>
+                    <dt>Elliptical Marquee Tool</dt>
+                    <dd class="shortcut">M</dd>
+                    <dt class="nodd">Single Row Marquee Tool</dt>
+                    <dt class="nodd">Single Column Marquee Tool</dt>
+                    <dt>Lasso Tool</dt>
+                    <dd class="shortcut">L</dd>
+                    <dt>Polygonal Lasso Tool</dt>
+                    <dd class="shortcut">L</dd>
+                    <dt>Magnetic Lasso Tool</dt>
+                    <dd class="shortcut">L</dd>
+                    <dt>Quick Selection Tool</dt>
+                    <dd class="shortcut">W</dd>
+                    <dt>Magic Wand Tool</dt>
+                    <dd class="shortcut">W</dd>
+                    <dt>Crop Tool</dt>
+                    <dd class="shortcut">C</dd>
+                    <dt>Perspective Crop Tool</dt>
+                    <dd class="shortcut">C</dd>
+                    <dt>Slice Tool</dt>
+                    <dd class="shortcut">C</dd>
+                    <dt>Slice Select Tool</dt>
+                    <dd class="shortcut">C</dd>
+                    <dt>Eyedropper Tool</dt>
+                    <dd class="shortcut">I</dd>
+                    <dt>3D Material Eyedropper Tool</dt>
+                    <dd class="shortcut">I</dd>
+                    <dt>Color Sampler Tool</dt>
+                    <dd class="shortcut">I</dd>
+                    <dt>Ruler Tool</dt>
+                    <dd class="shortcut">I</dd>
+                    <dt>Note Tool</dt>
+                    <dd class="shortcut">I</dd>
+                    <dt>Count Tool</dt>
+                    <dd class="shortcut">I</dd>
+                    <dt>Spot Healing Brush Tool</dt>
+                    <dd class="shortcut">J</dd>
+                    <dt>Healing Brush Tool</dt>
+                    <dd class="shortcut">J</dd>
+                    <dt>Patch Tool</dt>
+                    <dd class="shortcut">J</dd>
+                    <dt>Content-Aware Move Tool</dt>
+                    <dd class="shortcut">J</dd>
+                    <dt>Red Eye Tool</dt>
+                    <dd class="shortcut">J</dd>
+                    <dt>Brush Tool</dt>
+                    <dd class="shortcut">B</dd>
+                    <dt>Pencil Tool</dt>
+                    <dd class="shortcut">B</dd>
+                    <dt>Color Replacement Tool</dt>
+                    <dd class="shortcut">B</dd>
+                    <dt>Mixer Brush Tool</dt>
+                    <dd class="shortcut">B</dd>
+                    <dt>Clone Stamp Tool</dt>
+                    <dd class="shortcut">S</dd>
+                    <dt>Pattern Stamp Tool</dt>
+                    <dd class="shortcut">S</dd>
+                    <dt>History Brush Tool</dt>
+                    <dd class="shortcut">Y</dd>
+                    <dt>Art History Brush Tool</dt>
+                    <dd class="shortcut">Y</dd>
+                    <dt>Eraser Tool</dt>
+                    <dd class="shortcut">E</dd>
+                    <dt>Background Eraser Tool</dt>
+                    <dd class="shortcut">E</dd>
+                    <dt>Magic Eraser Tool</dt>
+                    <dd class="shortcut">E</dd>
+                    <dt>Gradient Tool</dt>
+                    <dd class="shortcut">G</dd>
+                    <dt>Paint Bucket Tool</dt>
+                    <dd class="shortcut">G</dd>
+                    <dt>3D Material Drop Tool</dt>
+                    <dd class="shortcut">G</dd>
+                    <dt>Blur Tool</dt>
+                    <dd class="shortcut">K</dd>
+                    <dt>Sharpen Tool</dt>
+                    <dd class="shortcut">K</dd>
+                    <dt>Smudge Tool</dt>
+                    <dd class="shortcut">K</dd>
+                    <dt>Dodge Tool</dt>
+                    <dd class="shortcut">O</dd>
+                    <dt>Burn Tool</dt>
+                    <dd class="shortcut">O</dd>
+                    <dt>Sponge Tool</dt>
+                    <dd class="shortcut">O</dd>
+                    <dt>Pen Tool</dt>
+                    <dd class="shortcut">P</dd>
+                    <dt>Freeform Pen Tool</dt>
+                    <dd class="shortcut">P</dd>
+                    <dt>Convert Point Tool</dt>
+                    <dd class="shortcut">P</dd>
+                    <dt class="nodd">Add Anchor Point Tool</dt>
+                    <dt class="nodd">Delete Anchor Point Tool</dt>
+                    <dt>Horizontal Type Tool</dt>
+                    <dd class="shortcut">T</dd>
+                    <dt>Vertical Type Tool</dt>
+                    <dd class="shortcut">T</dd>
+                    <dt>Vertical Type Mask Tool</dt>
+                    <dd class="shortcut">T</dd>
+                    <dt>Horizontal Type Mask Tool</dt>
+                    <dd class="shortcut">T</dd>
+                    <dt>Path Selection Tool</dt>
+                    <dd class="shortcut">A</dd>
+                    <dt>Direct Selection Tool</dt>
+                    <dd class="shortcut">A</dd>
+                    <dt>Rectangle Tool</dt>
+                    <dd class="shortcut">U</dd>
+                    <dt>Rounded Rectangle Tool</dt>
+                    <dd class="shortcut">U</dd>
+                    <dt>Ellipse Tool</dt>
+                    <dd class="shortcut">U</dd>
+                    <dt>Polygon Tool</dt>
+                    <dd class="shortcut">U</dd>
+                    <dt>Line Tool</dt>
+                    <dd class="shortcut">U</dd>
+                    <dt>Custom Shape Tool</dt>
+                    <dd class="shortcut">U</dd>
+                    <dt>Hand Tool</dt>
+                    <dd class="shortcut">H</dd>
+                    <dt>Rotate View Tool</dt>
+                    <dd class="shortcut">R</dd>
+                    <dt>Zoom Tool</dt>
+                    <dt>Curvature Pen Tool</dt>
+                    <dd class="shortcut">P</dd>
+                    <dt class="nodd">Targeted Adjustment Tool</dt>
+                    <dt>Default Foreground/Background Colors</dt>
+                    <dd class="shortcut">D</dd>
+                    <dt>Switch Foreground/Background Colors</dt>
+                    <dd class="shortcut">X</dd>
+                    <dt>Toggle Standard/Quick Mask Modes</dt>
+                    <dd class="shortcut">Q</dd>
+                    <dt>Toggle Screen Modes</dt>
+                    <dd class="shortcut">F</dd>
+                    <dt>Toggle Preserve Transparency</dt>
+                    <dd class="shortcut">/</dd>
+                    <dt>Decrease Brush Size</dt>
+                    <dd class="shortcut">[</dd>
+                    <dt>Increase Brush Size</dt>
+                    <dd class="shortcut">]</dd>
+                    <dt>Decrease Brush Hardness</dt>
+                    <dd class="shortcut">{</dd>
+                    <dt>Increase Brush Hardness</dt>
+                    <dd class="shortcut">}</dd>
+                    <dt>Previous Brush</dt>
+                    <dd class="shortcut">,</dd>
+                    <dt>Next Brush</dt>
+                    <dd class="shortcut">.</dd>
+                    <dt>First Brush</dt>
+                    <dd class="shortcut">&lt;</dd>
+                    <dt>Last Brush</dt>
+                    <dd class="shortcut">&gt;</dd>
+                    <dt class="nodd">Foreground Color Picker</dt>
+                    <dt class="nodd">Background Color Picker</dt>
+                    <dt class="nodd">Load Mixer Brush</dt>
+                    <dt class="nodd">Clean Mixer Brush</dt>
+                    <dt class="nodd">Toggle Mixer Brush Auto-Load</dt>
+                    <dt class="nodd">Toggle Mixer Brush Auto-Clean</dt>
+                    <dt class="nodd">Toggle Mixer Brush Sample All Layers</dt>
+                    <dt class="nodd">Sharpen Erodible Tips</dt>
+                    <dt class="nodd">Direct Selection Mode Toggle</dt>
+                    <dt class="nodd">Toggle Brush Airbrush Mode</dt>
+                    <dt>Toggle Brush Pressure Controls Size</dt>
+                    <dd class="shortcut">Z</dd>
+                    <dt>Toggle Brush Pressure Controls Opacity</dt>
+                    <dd class="shortcut">N</dd>
+                </dl>
+            </dd>
         </dl>
     </main>
     <script id="__bs_script__">
