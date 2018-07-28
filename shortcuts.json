@@ -1,0 +1,169 @@
+{
+    "Application Menus": {
+        "File": {
+            "New...": "Ctrl+N",
+            "Open...": "Ctrl+O",
+            "Browse in Bridge...": "Shift+Ctrl+O",
+            "Open as Smart Object...": "Alt+Shift+Ctrl+O",
+            "Open Recent": {
+                "Clear Recent File List": "N/A"
+            },
+            "Close": "Ctrl+W",
+            "Close All": "Alt+Ctrl+W",
+            "Close and Go to Bridge...": "Shift+Ctrl+W",
+            "Save": "Ctrl+S",
+            "Save As...": "Shift+Ctrl+S",
+            "Revert": "F12",
+            "Export": {
+                "Quick Export as PNG": "Alt+Ctrl+P",
+                "Export As...": "Alt+Ctrl+X",
+                "Export Preferences...": "N/A",
+                "Save for Web (Legacy)...": "Alt+Shift+Ctrl+S",
+                "Artboards to Files...": "N/A",
+                "Artboards to PDF...": "N/A",
+                "Layer Comps to Files...": "N/A",
+                "Layer Comps to PDF...": "N/A",
+                "Layers to Files...": "N/A",
+                "Color Lookup Tables...": "N/A",
+                "Data Sets as Files...": "N/A",
+                "Paths to Illustrator...": "N/A",
+                "Render Video...": "N/A",
+                "Zoomify...": "N/A"
+            },
+            "Generate": {
+                "Image Assets": "N/A"
+            },
+            "Share...": {
+                "Share on Behance...": "N/A",
+                "Search Adobe Stock...": "N/A",
+                "Place Embedded...": "N/A",
+                "Place Linked...": "N/A",
+                "Package...": "N/A"
+            },
+            "Automate": {
+                "Batch...": "N/A",
+                "PDF Presentation...": "N/A",
+                "Create Droplet...": "N/A",
+                "Crop and Straighten Photos": "N/A",
+                "Contact Sheet II...": "N/A",
+                "Conditional Mode Change...": "N/A",
+                "Fit Image...": "N/A",
+                "Lens Correction...": "N/A",
+                "Merge to HDR Pro...": "N/A",
+                "Photomerge...": "N/A"
+            },
+            "Scripts": {
+                "Image Processor...": "N/A",
+                "Delete All Empty Layers": "N/A",
+                "Flatten All Layer Effects": "N/A",
+                "Flatten All Masks[M] Unsmart 2.1 .3": "N/A",
+                "Script Events Manager...": "N/A",
+                "ActualPrintSize": "N/A",
+                "Load Files into Stack...": "N/A",
+                "Load Multiple DICOM Files...": "N/A",
+                "Statistics...": "N/A",
+                "togglePalettator": "N/A",
+                "Browse...": "N/A"
+            },
+            "Import": {
+                "Variable Data Sets...": "N/A",
+                "Video Frames to Layers...": "N/A",
+                "Notes...": "N/A",
+                "WIA Support...": "N/A"
+            },
+            "File Info...": "Alt+Shift+Ctrl+I",
+            "Print...": "Ctrl+P",
+            "Print One Copy": "Alt+Shift+Ctrl+P",
+            "Exit": "Ctrl+Q"
+        }
+    },
+    "Edit": {
+        "Undo/Redo": "Ctrl+Z",
+        "Step Forward": "Shift+Ctrl+Z",
+        "Step Backward": "Alt+Ctrl+Z",
+        "Fade...": "Shift+Ctrl+F",
+        "Cut": "Ctrl+X",
+        "Copy": "Ctrl+C",
+        "Copy Merged": "Shift+Ctrl+C",
+        "Paste": [
+            "Ctrl+V",
+            "F4"
+            ],
+        "Paste Special": {
+            "Paste without Formatting": "N/A",
+            "Paste in Place": "Shift+Ctrl+V",
+            "Paste Into": "Alt+Shift+Ctrl+V",
+            "Paste Outside": "N/A"
+        },
+        "Clear": "N/A",
+        "Search": "N/A",
+        "Check Spelling...": "N/A",
+        "Find and Replace Text...": "N/A",
+        "Fill...": "Shift+F5",
+        "Stroke...": "N/A",
+        "Content-Aware Scale": "Alt+Shift+Ctrl+C",
+        "Puppet Warp": "N/A",
+        "Perspective Warp": "N/A",
+        "Free Transform": "Ctrl+T",
+        "Transform": {
+            "Again": "Shift+Ctrl+1",
+            "Scale": "N/A",
+            "Rotate": "N/A",
+            "Skew": "N/A",
+            "Distort": "N/A",
+            "Perspective": "N/A",
+            "Warp": "N/A",
+            "Rotate 180°": "N/A",
+            "Rotate 90° Clockwise": "N/A",
+            "Rotate 90° Counter Clockwise": "N/A",
+            "Flip Horizontal": "N/A",
+            "Flip Vertical": "N/A"
+        },
+        "Auto-Align Layers...": "N/A",
+        "Auto-Blend Layers...": "N/A",
+        "Define Brush Preset...": "N/A",
+        "Define Pattern...": "N/A",
+        "Define Custom Shape...": "N/A",
+        "Purge": {
+            "    Undo": "N/A",
+            "Clipboard": "N/A",
+            "Histories": "N/A",
+            "All": "N/A",
+            "Video Cache": "N/A"
+        },
+        "Adobe PDF Presets...": "N/A",
+        "Presets": {
+            "Preset Manager...": "N/A",
+            "Migrate Presets": "N/A",
+            "Export/Import Presets...": "N/A"
+        },
+        "Remote Connections...": "N/A",
+        "Color Settings...": "Shift+Ctrl+K",
+        "Assign Profile...": "N/A",
+        "Convert to Profile...": "N/A",
+        "Keyboard Shortcuts...": "Alt+Shift+Ctrl+K",
+        "Menus...": "Alt+Shift+Ctrl+M",
+        "Toolbar...": "N/A",
+        "Preferences": {
+            "General...": "Ctrl+K",
+            "Interface...": "N/A",
+            "Workspace...": "N/A",
+            "Tools...": "N/A",
+            "History Log...": "N/A",
+            "File Handling...": "N/A",
+            "Export...": "N/A",
+            "Performance...": "N/A",
+            "Scratch Disks...": "N/A",
+            "Cursors...": "N/A",
+            "Transparency & Gamut...": "N/A",
+            "Units & Rulers...": "N/A",
+            "Guides, Grid & Slices...": "N/A",
+            "Plug-ins...": "N/A",
+            "Type...": "N/A",
+            "3D...": "N/A",
+            "Enhanced Controls...": "N/A",
+            "Technology Previews...": "N/A",
+            "Camera Raw...": "N/A"
+        }
+    }
+}

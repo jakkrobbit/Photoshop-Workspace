@@ -34,7 +34,7 @@ body {
   font-size: 1.12em;
   color: #c40000; }
 
-main {
+.wrapper {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -43,6 +43,9 @@ main {
       -ms-flex-flow: column;
           flex-flow: column;
   margin: auto auto auto 6em;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   width: 50%; }
 
 .menulist {
@@ -69,9 +72,6 @@ main {
           align-self: flex-end; }
 
 .keyheader {
-  display: -webkit-inline-box;
-  display: -ms-inline-flexbox;
-  display: inline-flex;
   margin: 0 1em;
   -webkit-box-pack: center;
       -ms-flex-pack: center;

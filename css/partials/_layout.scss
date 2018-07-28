@@ -1,7 +1,8 @@
-main {
+.wrapper {
     display: flex;
     flex-flow: column;
     margin: auto auto auto 6em;
+    align-items: center;
     width: 50%;
 }
 
@@ -24,7 +25,7 @@ main {
 }
 
 .keyheader {
-    display: inline-flex;
+//    display: inline-flex;
     margin: 0 1em;
     justify-content: center;
     max-width: 80%;
