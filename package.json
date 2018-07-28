@@ -9,11 +9,11 @@
   "author": "Nikki Berry",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "latest",
-    "gulp-autoprefixer": "latest",
+    "browser-sync": "^2.24.6",
+    "gulp": "latest",
+    "gulp-autoprefixer": "^5.0.0",
     "gulp-plumber": "latest",
-    "gulp-rename": "latest",
-    "gulp-sass": "latest",
-    "gulp": "latest"
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1"
   }
 }
