@@ -7,3 +7,25 @@ $orange: #fbb034;
 $yllw: #ffdd00;
 $green: #c1d82f;
 $blue: #0084e4;
+
+// Placeholders
+%sort {
+    &::after {
+        font-family: "fontawesome";
+        content: "/f0dc";
+    }
+}
+
+%sortup {
+    &::after {
+        font-family: "fontawesome";
+        content: "/f0de";
+    }
+}
+
+%sortdwn {
+    &::after {
+        font-family: "fontawesome";
+        content: "/f0dd";
+    }
+}

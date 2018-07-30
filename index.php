@@ -7,6 +7,7 @@
     <meta name="generator" content="Adobe&reg; Photoshop&reg; CC">
     <title>Adobe&reg; Photoshop&reg; CC Keyboard Shortcuts</title>
     <link rel="stylesheet" href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
+    
     <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
     <link rel="stylesheet" href="css/main.css">
     <script src="scripts/lib/jquery-3.2.1.min.js"></script>
